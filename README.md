@@ -239,3 +239,17 @@ function callWebApiWithToken(endpoint, token, responseElement, showTokenElement)
         });
 }
 ```
+
+
+## Add a method to sign out the user
+
+Add the following code to your app.js file:
+
+```
+/**
+ * Sign-out the user
+ */
+function signOut() {
+    userAgentApplication.logout();
+}
+```

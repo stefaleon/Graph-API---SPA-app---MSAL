@@ -150,3 +150,11 @@ function callWebApiWithToken(endpoint, token, responseElement, showTokenElement)
             showError(endpoint, error);
         });
 }
+
+
+/**
+ * Sign-out the user
+ */
+function signOut() {
+    userAgentApplication.logout();
+}
