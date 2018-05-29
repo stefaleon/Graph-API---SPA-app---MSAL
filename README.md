@@ -1,6 +1,4 @@
 
-
-
 ## [Javascript SPA guided setup for JS-SPA-Graph-MSAL](https://apps.dev.microsoft.com/portal/guided-setup/introduction?appType=singlePageApp&appTech=javascriptSpa&appId=ce501538-bbcc-495e-bd28-f5e05ed2aac4)
 
 My applications -> JS-SPA-Graph-MSAL -> Guided setup -> Javascript SPA
